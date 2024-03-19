@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @michaelbrn
-Don't expect nice code, I'm a physicist.
+Physicist dabbling in code.
 
-Cheers
 
 <!---
 michaelbrn/michaelbrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
