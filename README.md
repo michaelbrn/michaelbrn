@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @michaelbrn
-Physicist dabbling in code.
+- 👋 Hi, I’m @michaelbrn.
+A Physicist dabbling in code.
 
 
 <!---
