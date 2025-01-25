@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang='en'>
 <h1>👋 Hi, I’m @michaelbrn.</h1>
-<p>A Physicist dabbling in code.</p>
 </html>
 
 <!---
